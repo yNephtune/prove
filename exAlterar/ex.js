@@ -8,7 +8,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>allura dak hu Ass: Gabriel</Text>
+      <Text style={styles.text}>Eu estou arrasando na programação com expo. Ass: Gabriel</Text>
     </View>
   );
 }
